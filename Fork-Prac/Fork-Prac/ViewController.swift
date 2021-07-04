@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("기능추가")
         // Do any additional setup after loading the view.
     }
 
